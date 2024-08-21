@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+  <channel>
+    <title>Bath Spa University Events</title>
+    <link>https://www.bathspa.ac.uk</link>
+    <description>Upcoming events from Bath Spa University</description>
+
+    <item>
+      <title>Being River</title>
+      <link>https://www.bathspa.ac.uk/news-and-events/events/being-river</link>
+      <description>Description of Event 1</description>
+      <pubDate>Wed, 21 Aug 2024 09:00:00 GMT</pubDate>
+      <guid>unique-event-id-1</guid>
+      <category>tag1, tag2</category>
+    </item>
+
+    <item>
+      <title>Undergraduate Degree Show 2024</title>
+      <link>https://www.bathspa.ac.uk/news-and-events/events/undergraduate-degree-show-2024</link>
+      <description></description>
+      <pubDate>Thu, 22 Aug 2024 14:00:00 GMT</pubDate>
+      <guid>unique-event-id-2</guid>
+      <category>tag3, tag4</category>
+    </item>
+
+  </channel>
+</rss>
